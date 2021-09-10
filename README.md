@@ -21,14 +21,14 @@ Here are some ideas to get you started:
 - 👨‍💻 Check out my [portfolio](https://kubikill.github.io/)!
 
 <h3 align="left">Connect with me:</h3>
-                                 
+
 <a href="mailto:topolinskijakub5@gmail.com" target="blank">
   <img src="https://img.shields.io/badge/%20-Gmail-EA4335?logo=gmail&style=for-the-badge&logoColor=white&logoWidth=16" />
 </a>
 <a href="https://twitter.com/jakubtopolinski" target="blank">
   <img src="https://img.shields.io/twitter/follow/jakubtopolinski?color=1DA1F2&logo=twitter&style=for-the-badge" alt="jakubtopolinski" />
 </a>
-                                 
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
