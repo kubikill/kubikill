@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Jakub!</h1>
 <h3 align="center">A junior front-end developer from Poland</h3>
 
-- 🌱 Currently learning: **React**
+- 🌱 Currently learning: **React**, **Gatsby**
 - 👯 Looking to collaborate on HTML/CSS/JS/React projects
 - 👨‍💻 Check out my [portfolio](https://kubikill.github.io/)!
 
