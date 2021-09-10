@@ -26,7 +26,6 @@
 
 ### Tools:
 
-<a href="https://babeljs.io/" target="_blank"><img src="https://raw.githubusercontent.com/kubikill/kubikill/main/images/babel.svg" alt="Babel" width="60" height="40"/></a>
 <a href="https://parceljs.org/" target="_blank"><img src="https://raw.githubusercontent.com/kubikill/kubikill/main/images/parcel.svg" alt="Parcel" width="40" height="40"/></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
 <a href="https://www.npmjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/kubikill/kubikill/main/images/npm.svg" alt="NPM" width="40" height="40"/></a>
