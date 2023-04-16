@@ -6,14 +6,11 @@
 
 ### Connect with me:
 
-<a href="mailto:topolinskijakub5@gmail.com">
+<a href="mailto:jakubtopolinski@mailbox.org">
   <img src="https://img.shields.io/badge/-e--mail-EA4335?logo=gmail&style=for-the-badge&logoColor=white&logoWidth=16" />
 </a>
 <a href="https://linkedin.com/in/jakub-topolinski/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://twitter.com/jakubtopolinski">
-  <img src="https://img.shields.io/twitter/follow/jakubtopolinski?color=1DA1F2&logo=twitter&style=for-the-badge" alt="jakubtopolinski" />
 </a>
 
 ### Languages / Frameworks:
